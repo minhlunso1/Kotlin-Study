@@ -1,5 +1,7 @@
 package main
 
+import pojo.MyClass
+
 fun main(args: Array<String>) {
     println(Utils.displayProjectName())
 
@@ -27,7 +29,7 @@ fun main(args: Array<String>) {
     var myClass1 = MyClass(1)
     println("My class id: " + myClass1.id)
     var myClass2 = myClass1 as? MyClass//if myClass1 != null
-    var myClass3 :MyClass?
+    var myClass3 : MyClass?
     myClass3 = null
     if (myClass1 is MyClass)
         myClass3 = myClass1 as MyClass

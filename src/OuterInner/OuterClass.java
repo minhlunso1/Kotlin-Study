@@ -1,4 +1,4 @@
-package main.OuterInner;
+package OuterInner;
 
 public class OuterClass {
     public static class InnerClass {

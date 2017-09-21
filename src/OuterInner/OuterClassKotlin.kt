@@ -1,4 +1,4 @@
-package main.OuterInner
+package OuterInner
 
 //In Kotlin, outer class does not see private members of inner class
 class OuterClassKotlin {

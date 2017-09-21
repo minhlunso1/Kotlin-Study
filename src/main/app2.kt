@@ -1,8 +1,9 @@
 package main
 
-import main.OuterInner.OuterClass
-import main.pojo.Car
-import main.pojo.TV
+import OuterInner.OuterClass
+import pojo.Car
+import pojo.MyClass
+import pojo.TV
 
 fun main(args: Array<String>) {
     var myClassArray : ArrayList<MyClass> = ArrayList()

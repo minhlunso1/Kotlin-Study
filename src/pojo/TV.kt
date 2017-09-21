@@ -1,6 +1,5 @@
-package main.pojo
+package pojo
 
-import main.MyClass
 import java.time.LocalDateTime
 
 data class TV(var pid: Int, var mid: Int) {

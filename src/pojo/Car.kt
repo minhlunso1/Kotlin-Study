@@ -1,4 +1,4 @@
-package main.pojo
+package pojo
 
 /**
  * @author Minh

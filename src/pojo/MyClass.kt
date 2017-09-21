@@ -1,4 +1,4 @@
-package main
+package pojo
 
 class MyClass public constructor(id: Int) {
     var id: Int = id
