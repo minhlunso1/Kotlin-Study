@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     println("HashSet size: ${mutableCollection.size}")//duplicate so the size is only 2
 
     println("Compare with custom Comparator:")
-    mutableCollection.sortedWith(Comparator).forEach(){ println(it)}
+    mutableCollection.sortedWith(Comparator).forEach{ println(it)}
     println("Ascending:")
     mutableCollection.sortedWith(compareBy({ it.year }, { it.month }, { it.day })).forEach { println(it) }
     println("Descending:")
