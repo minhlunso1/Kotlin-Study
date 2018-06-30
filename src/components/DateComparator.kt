@@ -7,7 +7,8 @@ import kotlin.Comparator
  * @author Minh
  * 6/23/2018
  */
-class Comparator {
+class DateComparator {
+    //can use companion object as a static variable, class ,interface
     companion object: Comparator<Date> {
         override fun compare(o1: Date, o2: Date): Int = when {
             o1.year != o2.year -> o1.year - o2.year

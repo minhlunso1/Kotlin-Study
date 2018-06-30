@@ -1,6 +1,6 @@
 package main
 
-import components.Comparator
+import components.DateComparator
 import pojo.Date
 
 /**
@@ -14,8 +14,8 @@ fun main(args: Array<String>) {
     mutableCollection.add(Date(16 , 10 ,2014))
     println("HashSet size: ${mutableCollection.size}")//duplicate so the size is only 2
 
-    println("Compare with custom Comparator:")
-    mutableCollection.sortedWith(Comparator).forEach{ println(it)}
+    println("Compare with custom DateComparator:")
+    mutableCollection.sortedWith(DateComparator).forEach{ println(it)}
     println("Ascending:")
     mutableCollection.sortedWith(compareBy({ it.year }, { it.month }, { it.day })).forEach { println(it) }
     println("Descending:")
