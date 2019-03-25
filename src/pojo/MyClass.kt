@@ -15,12 +15,12 @@ class MyClass public constructor(id: Int) {
     }
 
     fun getNameM(): String {
-        name?.let {
-            return name as String
-        }
-        return ""
+//        name?.let {
+//            return name as String
+//        }
+//        return ""
         //could return null
-        //return name as String
+        return name as String
     }
 
     fun doSth() {

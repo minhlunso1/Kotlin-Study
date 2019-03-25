@@ -23,7 +23,7 @@ data class TV(var pid: Int, var mid: Int) {
 
         fun getMyClassFromTv(tv: TV): MyClass {
             return with(tv) {
-                MyClass(tv.pid, tv.mid.toString())
+                MyClass(pid, mid.toString())
             }
         }
     }

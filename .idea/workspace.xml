@@ -2,24 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d6483f-afd8-48eb-bed4-36d04d01fa39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Comparator.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pojo/Date.kt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/META-INF/Kotlin-Study.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/AppKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/TestStringKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/Utils.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt" afterPath="$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/META-INF/Kotlin-Study.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/META-INF/Kotlin-Study.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClass$InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClassKotlin$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClassKotlin$InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClassKotlin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/OuterInner/OuterClassKotlin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/components/Comparator$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/components/Comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt$main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App3Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$$inlined$compareByDescending$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$$inlined$compareByDescending$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$$inlined$thenByDescending$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$$inlined$thenByDescending$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$$inlined$thenByDescending$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$$inlined$thenByDescending$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/App4Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/AppKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/TestStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/TestStringKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/main/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/main/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car$Bugatti.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car$Bugatti.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car$Honda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car$Honda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car$Mockup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car$Mockup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/TV$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/TV$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/TV$mfg$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/TV$mfg$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Study/pojo/TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pojo/MyClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojo/MyClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pojo/TV.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojo/TV.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,26 +50,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Comparator.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Comparator.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pojo/TV.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-              <folding>
-                <element signature="e#20#61#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app4.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/app4.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/app2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-              <folding>
-                <element signature="e#14#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="344">
+              <caret line="38" column="93" lean-forward="true" selection-start-line="38" selection-start-column="93" selection-end-line="38" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -65,6 +82,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>b</find>
+      <find>mid</find>
     </findStrings>
     <replaceStrings>
       <replace>o2</replace>
@@ -73,22 +91,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/app3.java" />
         <option value="$PROJECT_DIR$/src/main/app3.kt" />
         <option value="$PROJECT_DIR$/src/OuterInner/OuterClass.java" />
-        <option value="$PROJECT_DIR$/src/main/TestString.kt" />
         <option value="$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt" />
         <option value="$PROJECT_DIR$/src/pojo/Date.kt" />
         <option value="$PROJECT_DIR$/src/components/Comparator.kt" />
         <option value="$PROJECT_DIR$/src/main/app4.kt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+        <option value="$PROJECT_DIR$/src/main/app.kt" />
+        <option value="$PROJECT_DIR$/src/components/DateComparator.kt" />
+        <option value="$PROJECT_DIR$/src/main/TestString.kt" />
+        <option value="$PROJECT_DIR$/src/pojo/MyClass.kt" />
+        <option value="$PROJECT_DIR$/src/main/app2.kt" />
+        <option value="$PROJECT_DIR$/src/pojo/TV.kt" />
       </list>
     </option>
   </component>
@@ -98,66 +117,58 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Kotlin-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin-study" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin-Study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Kotlin-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin-study" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin-Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Kotlin-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin-study" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin-Study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Kotlin-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553483366056" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
@@ -179,90 +190,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.main.App4Kt">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
+  <component name="RunManager" selected="Kotlin.main.App2Kt">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    <configuration name="main.App2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin-Study" />
+      <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
+      <option name="MAIN_CLASS_NAME" value="main.App2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="main.App3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Kotlin-Study" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -270,11 +232,12 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="main.App3Kt" />
       <option name="WORKING_DIRECTORY" />
-      <module name="Kotlin-Study" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="main.App4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Kotlin-Study" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -282,11 +245,25 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="main.App4Kt" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin-Study" />
-      <envs />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="main.TestStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Kotlin-Study" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -294,24 +271,44 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="main.TestStringKt" />
       <option name="WORKING_DIRECTORY" />
-      <module name="Kotlin-Study" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.main.TestStringKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.main.App3Kt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.main.App4Kt" />
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.main.TestStringKt" />
+      <item itemvalue="Kotlin.main.App3Kt" />
+      <item itemvalue="Kotlin.main.App4Kt" />
+      <item itemvalue="Kotlin.main.AppKt" />
+      <item itemvalue="Kotlin.main.App2Kt" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.main.App4Kt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.main.App3Kt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.main.TestStringKt" />
+      <list>
+        <item itemvalue="Kotlin.main.App2Kt" />
+        <item itemvalue="Kotlin.main.TestStringKt" />
+        <item itemvalue="Kotlin.main.AppKt" />
+        <item itemvalue="Kotlin.main.App4Kt" />
+        <item itemvalue="Kotlin.main.App3Kt" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -346,232 +343,60 @@
     <option name="totallyTimeSpent" value="11909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.49570355" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280543" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26100966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" order="0" weight="0.3297568" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27181688" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" weight="0.32722145" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021482" side_tool="true" weight="0.3280543" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49570355" weight="0.32722145" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test_outer_inner" />
     <option name="LAST_COMMIT_MESSAGE" value="test_outer_inner" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Comparator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#20#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#14#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/TestString.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Utils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/TV.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/Car.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/TV.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/app3.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/app2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Utils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/TestString.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OuterInner/OuterClassKotlin.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/Car.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/MyClass.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/TV.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -579,45 +404,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/app3.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="31" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/TypeAliases.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
-          <caret line="261" column="17" lean-forward="false" selection-start-line="261" selection-start-column="17" selection-end-line="261" selection-end-column="17" />
+          <caret line="261" column="17" selection-start-line="261" selection-start-column="17" selection-end-line="261" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Comparator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#20#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Comparator.kt" />
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="1100" column="29" lean-forward="false" selection-start-line="1100" selection-start-column="29" selection-end-line="1100" selection-end-column="29" />
+          <caret line="1100" column="29" selection-start-line="1100" selection-start-column="29" selection-end-line="1100" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -625,18 +440,78 @@
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/comparisons/Comparisons.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="119" column="22" lean-forward="false" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/app4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-          <folding>
-            <element signature="e#14#59#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Utils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/app.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DateComparator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/TestString.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pojo/Car.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pojo/MyClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/app2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="38" column="93" lean-forward="true" selection-start-line="38" selection-start-column="93" selection-end-line="38" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pojo/TV.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
